@@ -3,8 +3,8 @@
 Regresión logística (Módulo 8) desplegada como API con FastAPI en Vercel.
 
 ## Enlaces
-- App: https://TU-PROYECTO.vercel.app
-- Documentación de la API: https://TU-PROYECTO.vercel.app/docs
+- App: [clasificacion-vercel-6mokcjytp-pascual5.vercel.app](https://clasificacion-vercel-red.vercel.app/)
+- Documentación de la API: [docs](https://clasificacion-vercel-red.vercel.app/docs)
 
 ## Archivos
 | Archivo | Rol |
